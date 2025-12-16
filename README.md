@@ -1,4 +1,4 @@
-**Logistic Regression step by step process.*
+# Logistic Regression step by step process-
 
 1.Compute a weighted sum of input features with an added bias term.
 
