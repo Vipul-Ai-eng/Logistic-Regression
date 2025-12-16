@@ -1,0 +1,10 @@
+# Logistic Regression step by step process
+1.Compute a weighted sum of input features with an added bias term.
+
+2.Apply a sigmoid activation to obtain a probability estimate.
+
+3.Compute gradients of the loss with respect to model parameters.
+
+4.Update weights and bias using gradient descent approach.
+
+5.Generate class predictions using a fixed probability threshold.
